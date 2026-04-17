@@ -1,4 +1,4 @@
-# Awesome Artisan AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI for Artisans [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome AI resources.
 
