@@ -53,6 +53,7 @@ A curated list of awesome AI resources.
 
 - [Kling AI](https://klingai.com/) - AI video generation model from Kuaishou capable of creating realistic video clips from text and images.
 - [Runway](https://runwayml.com/) - Creative AI platform offering video generation, editing, and visual effects tools for creators.
+- [Seedance](https://seed.bytedance.com/en/seedance2_0) - An advanced multimodal AI video generation model developed by ByteDance.
 - [Sora](https://openai.com/sora) - OpenAI's text-to-video model capable of generating high-quality short videos from text descriptions.
 
 ## Multimodal
@@ -64,9 +65,12 @@ A curated list of awesome AI resources.
 ## AI Coding & Developer Tools
 
 - [Claude Code](https://www.anthropic.com/claude-code) - Agentic coding tool from Anthropic that operates directly in the terminal for software engineering tasks.
+- [claude-mem](https://claude-mem.ai/) - A plugin that automatically captures everything AI Coding Agent does during your coding sessions.
 - [Copilot](https://github.com/features/copilot) - GitHub's AI pair programmer that offers code completions and chat assistance across popular editors.
 - [Cursor](https://www.cursor.com/) - AI-first code editor built on VS Code with deep model integration for writing and refactoring code.
 - [Devin](https://devin.ai/) - Autonomous AI software engineer from Cognition capable of completing end-to-end development tasks.
+- [GitNexus](https://gitnexus.vercel.app/) - A zero-server code intelligence engine that indexes codebases into an interactive knowledge graph.
+- [rtk](https://www.rtk-ai.app/) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands.
 
 ## Agents & Automation
 
@@ -80,6 +84,7 @@ A curated list of awesome AI resources.
 - [Google AI Studio](https://aistudio.google.com/) - Browser-based IDE for prototyping with Gemini models and generating API keys.
 - [Groq](https://groq.com/) - Inference platform offering fast LLM API access powered by custom LPU hardware.
 - [OpenAI API](https://platform.openai.com/) - API platform providing access to GPT models, embeddings, DALL-E, Whisper, and more.
+- [OpenRouter](https://openrouter.ai/) - A unified API marketplace and gateway that allows developers and users to access hundreds of different AI models
 - [Together AI](https://www.together.ai/) - Cloud platform for running and fine-tuning open-source AI models at scale.
 
 ## Frameworks & Libraries
