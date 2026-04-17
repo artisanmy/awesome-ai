@@ -58,7 +58,7 @@ A curated list of awesome AI resources.
 
 ## Multimodal
 
-- [Claude Vision](https://www.anthropic.com/claude) - Anthropic's Claude models with vision capabilities for analyzing images alongside text.
+- [Claude Vision](https://docs.anthropic.com/en/docs/build-with-claude/vision) - Anthropic's Claude models with vision capabilities for analyzing images alongside text.
 - [Gemini 1.5 Pro](https://deepmind.google/technologies/gemini/pro/) - Google's multimodal model with a long context window supporting text, images, audio, video, and code.
 - [GPT-4o](https://openai.com/gpt-4o) - OpenAI's flagship omni model with native support for text, audio, and image inputs and outputs.
 
@@ -84,7 +84,7 @@ A curated list of awesome AI resources.
 - [Google AI Studio](https://aistudio.google.com/) - Browser-based IDE for prototyping with Gemini models and generating API keys.
 - [Groq](https://groq.com/) - Inference platform offering fast LLM API access powered by custom LPU hardware.
 - [OpenAI API](https://platform.openai.com/) - API platform providing access to GPT models, embeddings, DALL-E, Whisper, and more.
-- [OpenRouter](https://openrouter.ai/) - A unified API marketplace and gateway that allows developers and users to access hundreds of different AI models
+- [OpenRouter](https://openrouter.ai/) - A unified API marketplace and gateway that allows developers and users to access hundreds of different AI models.
 - [Together AI](https://www.together.ai/) - Cloud platform for running and fine-tuning open-source AI models at scale.
 
 ## Frameworks & Libraries
