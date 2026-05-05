@@ -69,8 +69,11 @@ A curated list of awesome AI resources.
 - [Copilot](https://github.com/features/copilot) - GitHub's AI pair programmer that offers code completions and chat assistance across popular editors.
 - [Cursor](https://www.cursor.com/) - AI-first code editor built on VS Code with deep model integration for writing and refactoring code.
 - [Devin](https://devin.ai/) - Autonomous AI software engineer from Cognition capable of completing end-to-end development tasks.
+- [GET SHIT DONE](https://github.com/gsd-build/get-shit-done)
 - [GitNexus](https://gitnexus.vercel.app/) - A zero-server code intelligence engine that indexes codebases into an interactive knowledge graph.
 - [rtk](https://www.rtk-ai.app/) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands.
+- [Superconductor](https://super.engineering/) - Native macOS app (100% Rust) for orchestrating parallel AI coding agents in isolated git worktrees with GPU-rendered terminal.
+- [Open Design](https://open-design.ai/) - Open-source design studio with 31 composable skills and 72 design systems, turning your existing coding agent into a design engine.
 
 ## Agents & Automation
 
